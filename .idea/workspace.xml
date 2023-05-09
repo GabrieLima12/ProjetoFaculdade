@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dda8f742-8f80-4f33-991a-0e521496d378" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ConfiguracaoArduino/sketch_apr29a_copy_20230502120947/sketch_apr29a_copy_20230502120947.ino" beforeDir="false" afterPath="$PROJECT_DIR$/ConfiguracaoArduino/sketch_apr29a_copy_20230502120947/sketch_apr29a_copy_20230502120947.ino" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PWkAycgmpGytV7cSNi0DrpedBS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/aronlucca/Documents/gloo/ProjetoFaculdade"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dda8f742-8f80-4f33-991a-0e521496d378" name="Changes" comment="" />
+      <created>1683580085585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683580085585</updated>
+    </task>
+    <servers />
+  </component>
+</project>
