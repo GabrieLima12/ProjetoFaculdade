@@ -61,6 +61,8 @@ public class StopWatch {
 
     public void lap()
     {
+        if (!running)
+            return;;
 
         lapElapsedTime = 0;
         lapMillis = 0;

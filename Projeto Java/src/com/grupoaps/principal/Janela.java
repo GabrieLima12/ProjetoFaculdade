@@ -152,6 +152,12 @@ public class Janela implements ActionListener{
         }
 
         if (e.getSource() == testButton)
-            sw.lap();
+        {
+            if (sw.isRunning())
+            {
+                ProjetoAps.voltas.add(sw.getFormattedLapTime());
+                sw.lap();
+            }
+        }
     }
 }
